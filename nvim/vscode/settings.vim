@@ -26,7 +26,6 @@ nnoremap gF :call VSCodeNotify('workbench.files.action.focusFilesExplorer')<CR>
 xnoremap gF :call VSCodeNotify('workbench.files.action.focusFilesExplorer')<CR>
 
 
-
 function! ExecuteSQL()
 	normal! gv
 	let startline = line("v")
@@ -49,3 +48,9 @@ nnoremap <silent> <Space> :call VSCodeNotify('whichkey.show')<CR>
 xnoremap <silent> <Space> :call VSCodeNotify('whichkey.show')<CR>
 
 nnoremap ? <Cmd>call VSCodeNotify('search.action.openNewEditor', { 'query': expand('<cword>'),  'focusResults': 'true'})<CR>
+
+nnoremap <Leader>d <PageDown>
+xnoremap <Leader>d <PageDown>
+
+nnoremap <Leader>u <PageUp>
+xnoremap <Leader>u <PageUp>
