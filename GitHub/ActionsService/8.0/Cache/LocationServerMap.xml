@@ -1,0 +1,4 @@
+<LocationServerMappings>
+  <ServerMapping location="https://pipelines.actions.githubusercontent.com/z3lFCgcJEpqwE31i8LofW2aFGvAF6kFM31chps33naYxIvJNY4/" guid="71122687-9386-4a66-a18a-6bd270994c83" owner="0000005a-0000-8888-8000-000000000000" />
+  <ServerMapping location="https://pipelinesghubeus6.actions.githubusercontent.com/z3lFCgcJEpqwE31i8LofW2aFGvAF6kFM31chps33naYxIvJNY4/" guid="71122687-9386-4a66-a18a-6bd270994c83" owner="0000005a-0000-8888-8000-000000000000" />
+</LocationServerMappings>
